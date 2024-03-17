@@ -2469,7 +2469,7 @@ eslint-plugin-react-hooks@^4.6.0:
   resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-4.6.0.tgz#4c3e697ad95b77e93f8646aaa1630c1ba607edd3"
   integrity sha512-oFc7Itz9Qxh2x4gNHStv3BqJq54ExXmfC+a1NjAta66IAN87Wu0R/QArgIS9qKzX3dXKPI9H5crl9QchNMY9+g==
 
-eslint-plugin-react-refresh@^0.4.5:
+eslint-plugin-react-refresh@^0.4.6:
   version "0.4.6"
   resolved "https://registry.yarnpkg.com/eslint-plugin-react-refresh/-/eslint-plugin-react-refresh-0.4.6.tgz#e8e8accab681861baed00c5c12da70267db0936f"
   integrity sha512-NjGXdm7zgcKRkKMua34qVO9doI7VOxZ6ancSvBELJSSoX97jyndXcSoa8XBh69JoB31dNz3EEzlMcizZl7LaMA==
@@ -4193,6 +4193,7 @@ string-strip-html@^8.3.0:
   integrity sha512-5ICsK1B1j0A3AF1d45m0sqQCcmi1Q+t1QpF+b794LO5FTHV+ITkGR5C+UCDJQZgs5LMuRruqr6j48PxQVIurJQ==
 
 "string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0, string-width@^4.2.3:
+  name string-width-cjs
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
